@@ -1,0 +1,1 @@
+# This proyect is not currently supported because is using a deprecated Discord API
